@@ -1,0 +1,4 @@
+Multan Sultan,Quetta Gladiators,18,2,78
+Lahore Qalanders,Karachi Kings,18,2,78
+Lahore Qalanders,Islamabad United,19,2,79
+Karachi Kings,Quetta Gladiators,20,2,80

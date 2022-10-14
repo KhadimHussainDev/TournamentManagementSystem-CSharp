@@ -1,0 +1,6 @@
+Multan Sultan,8,7,1,14
+Peshawar Zalmi,9,5,4,10
+Lahore Qalanders,7,5,2,10
+Islamabad United,8,4,4,8
+Quetta Gladiators,8,3,5,6
+Karachi Kings,8,0,8,0

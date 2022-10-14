@@ -1,0 +1,6 @@
+Lahore Qalanders,Rana Fawad,Shaheen Afridi,24,Fakhar Zaman,28
+Quetta Gladiators,Nadeem Umar,Shahid Afridi,35,Sarfraz Ahmed,32
+Peshawar Zalmi,Abdul Mateen,Wahab Riaz,32,Haider Ali,23
+Karachi Kings,Saqib Shehzad,Baber Azam,25,Sharjeel Khan,27
+Multan Sultan,Nasir Kamal,Muhammad Rizwan,24,Shan Masood,26
+Islamabad United,Muhammad Ahmed,Shadab Khan,23,Hassan Ali,25
